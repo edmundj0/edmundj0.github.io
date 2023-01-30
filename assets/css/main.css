@@ -2204,6 +2204,16 @@ input, select, textarea {
 
 /* Main */
 
+.icons {
+	width: 5vw;
+}
+
+.icons-container {
+	max-width: 50vw;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
 	#main {
 		margin-left: 375px;
 	}
